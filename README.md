@@ -54,6 +54,6 @@ python app.py
 <h3>
   Jorge Correia
   <a href="https://github.com/JorgeMFC?tab=followers">
-    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=social&label=Follow" />
+    <img src="https://img.shields.io/github/followers/JorgeMFC.svg?style=social&label=Follow" />
   </a>
 </h3>
